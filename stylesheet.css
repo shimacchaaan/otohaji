@@ -87,11 +87,8 @@ header {
   margin-top: 20px;
 }
 
-.header-left {
-  float: left;
-}
-
 .header-center {
+  width:100%;
   float: center;
 }
 
