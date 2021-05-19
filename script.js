@@ -1,5 +1,6 @@
+/20210520 this/ 
 $(function(){
   $('#lesson-show').click(function(){
-    $('#lesson-modal').fadeIn();
+    $('#lesson-modal').(this).fadeIn();
   })
 });
