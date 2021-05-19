@@ -118,14 +118,15 @@ header {
 .lesson {
   float: left;
   width: 33.3333333333%;
+  display:block;
+}
+
+.lesson:hover{
+  cursor:pointer;
 }
 
 .lesson-icon {
   position: relative;
-}
-
-.lesson-icon:hover {
-  cursur:pointer;
 }
 
 .lesson-icon p {
