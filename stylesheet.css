@@ -118,12 +118,8 @@ header {
 .lesson {
   float: left;
   width: 33.3333333333%;
-  display:block;
 }
 
-.lesson:hover{
-  cursor:pointer;
-}
 
 .lesson-icon {
   position: relative;
@@ -134,6 +130,15 @@ header {
   top: 37%;
   width: 100%;
   color: white;
+}
+
+/*20210520 modal　cursor */
+.lesson-icon img{
+  display:block;  
+}  
+
+.lesson-icon img:hover{
+  cursor:pointer;
 }
 
 .text-contents {
