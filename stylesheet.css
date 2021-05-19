@@ -101,9 +101,9 @@ header {
   display:block;
 }
 
-.lesson-wrapper:hover {
+/* .lesson-wrapper:hover {
   cursur:pointer;
-}
+} */
 
 .heading {
   padding-top: 30px;
@@ -122,6 +122,10 @@ header {
 
 .lesson-icon {
   position: relative;
+}
+
+.lesson-icon:hover {
+  cursur:pointer;
 }
 
 .lesson-icon p {
