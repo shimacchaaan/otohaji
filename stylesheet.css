@@ -98,6 +98,11 @@ header {
   padding-right: 5%;
   background-color: #BDBDBD;
   text-align: center;
+  display:block;
+}
+
+.lesson-wrapper:hover {
+  cursur:pointer;
 }
 
 .heading {
