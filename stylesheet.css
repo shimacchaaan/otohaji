@@ -133,9 +133,9 @@ header {
 }
 
 /*20210520 modal　cursor */
-.lesson-icon img{
+/* .lesson-icon img{
   display:block;  
-}  
+}   */
 
 .lesson-icon img:hover{
   cursor:pointer;
