@@ -1,5 +1,5 @@
 $(function(){
-  $(this).('#lesson-show').click(function(){
+  $('#lesson-show').click(function(){
     $('#lesson-modal').fadeIn();
   })
 });
