@@ -12,4 +12,12 @@ $(function(){
     $('#lesson-modal-ds').fadeIn();
   });
   
+//close 
+  
+  $('.close-modal').click(function(){
+    $('#lesson-modal-mac').fadeOut();
+    $('#lesson-modal-win').fadeOut();
+    $('#lesson-modal-ds').fadeOut();
+  });
+  
 });
