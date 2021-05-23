@@ -1,6 +1,6 @@
 /20210520 this/ 
 $(function(){
-  $('#lesson-show').click(function(){
+  $('#lesson-show-mac').click(function(){
     $(this).fadeIn();
   })
 });
