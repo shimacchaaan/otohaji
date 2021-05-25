@@ -164,13 +164,13 @@ header {
 
 .modal {
   position: absolute;
-  top: 20%;
+  top: 3%;
   left: 34%;
   background-color: #27253D;
   padding: 20px 0 40px;
   border-radius: 10px;
   width: 450px;
-  height: auto;
+  height: 89%;
   text-align: center;
 }
 
