@@ -176,7 +176,7 @@ header {
 .fa-times {
   position: absolute;
   top: 40px;
-  right: 45px;
+  right: 47px;
   color: rgba(128, 128, 128, 0.46);
   cursor: pointer;
 }
@@ -274,6 +274,13 @@ footer {
   footer {
     text-align: center;
   }
+  
+  .fa-times {
+    position: absolute;
+    top: 30px;
+    right: 45px;
+}
+  
 }
 
 @media all and (max-width: 750px) {
@@ -283,6 +290,12 @@ footer {
 
   .heading h2 {
     font-size: 20px;
+  }
+  
+  .fa-times {
+    position: absolute;
+    top: 30px;
+    right: 40px;
   }
 }
 
@@ -325,5 +338,11 @@ footer {
 
   .message-wrapper .btn {
     width: 100%;
+  }
+  
+  .fa-times {
+    position: absolute;
+    top: 30px;
+    right: 30px;
   }
 }
