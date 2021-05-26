@@ -164,7 +164,6 @@ header {
 
 .modal {
   position: absolute;
-  line-width:1000px;
   top: 5%;
   left:160px;
   background-color: #27253D;
