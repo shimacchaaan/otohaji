@@ -175,8 +175,8 @@ header {
 
 .fa-times {
   position: absolute;
-  top: 12px;
-  right: 12px;
+  top: 40px;
+  right: 45px;
   color: rgba(128, 128, 128, 0.46);
   cursor: pointer;
 }
