@@ -181,6 +181,10 @@ header {
   cursor: pointer;
 }
 
+.modal img {
+  padding:5%;
+}
+
 #signup-form, #login-form {
   width: 100%;
 }
