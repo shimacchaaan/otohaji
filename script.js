@@ -1,23 +1,23 @@
 /20210520 this/ 
 $(function(){
   $('#lesson-show-mac').click(function(){
-    $('#lesson-modal-mac').fadeIn();
+    $('#start-modal-mac').fadeIn();
   });
   
   $('#lesson-show-win').click(function(){
-    $('#lesson-modal-win').fadeIn();
+    $('#start-modal-win').fadeIn();
   });
   
   $('#lesson-show-ds').click(function(){
-    $('#lesson-modal-ds').fadeIn();
+    $('#start-modal-ds').fadeIn();
   });
   
 //close 
   
   $('.close-modal').click(function(){
-    $('#lesson-modal-mac').fadeOut();
-    $('#lesson-modal-win').fadeOut();
-    $('#lesson-modal-ds').fadeOut();
+    $('#start-modal-mac').fadeOut();
+    $('#start-modal-win').fadeOut();
+    $('#start-modal-ds').fadeOut();
   });
   
 });
