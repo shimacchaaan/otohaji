@@ -303,6 +303,10 @@ footer {
   }
 }
 
+.modal h2 {
+    font-size:22px;
+  }
+
 @media all and (max-width: 670px) {
   .header-right {
     display: none;
@@ -349,4 +353,9 @@ footer {
     top: 30px;
     right: 30px;
   }
+  
+  .modal h2 {
+    font-size:16px;
+  }
+  
 }
