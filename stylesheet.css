@@ -204,7 +204,7 @@ header {
   border-radius: 5px;
 }
 
-#system-btn-mac,melody-btn-mac,chord-btn-mac,mix-btn-mac {
+#system-btn-mac,#rhythm-btn-mac,melody-btn-mac,chord-btn-mac,mix-btn-mac {
   display: inline-block;
   padding: 14px 140px;
   background-color: #27253D;
