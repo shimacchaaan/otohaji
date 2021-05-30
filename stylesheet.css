@@ -188,7 +188,7 @@ header {
 .back-next {
   float:right;
   position:relative;
-  top:400px;
+  top:auto;
   padding-right:5%;
 }
 
@@ -215,28 +215,28 @@ header {
 
 #system-btn-mac,#rhythm-btn-mac,#melody-btn-mac,#chord-btn-mac,#mix-btn-mac {
   display: inline-block;
-  padding: 14px 140px;
+  padding: 14px 20px;
   background-color: #27253D;
   border: none;
   border-radius: 3px;
   color: white;
+  width:50%;
   margin: 10px auto;
+  text-align:left;
   cursor: pointer;
 }
 
 #original-btn-mac {
   display: inline-block;
-  padding: 14px 140px;
+  padding: 14px 20px;
   background-color: #7DA87B;
   border: none;
   border-radius: 3px;
   color: white;
+  width:50%;
   margin: 10px auto;
+  text-align:left;
   cursor: pointer;
-}
-
-.heading h3 {
-  font-weight: normal;
 }
 
 .message-wrapper {
