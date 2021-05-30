@@ -204,10 +204,10 @@ header {
   border-radius: 5px;
 }
 
-#submit-btn {
+#system-btn-mac,melody-btn-mac,chord-btn-mac,mix-btn-mac {
   display: inline-block;
   padding: 14px 140px;
-  background-color: #5dca88;
+  background-color: #27253D;
   border: none;
   border-radius: 3px;
   color: white;
@@ -215,6 +215,16 @@ header {
   cursor: pointer;
 }
 
+#original-btn-mac {
+  display: inline-block;
+  padding: 14px 140px;
+  background-color: #7DA87B;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  margin: 10px auto;
+  cursor: pointer;
+}
 
 .heading h3 {
   font-weight: normal;
