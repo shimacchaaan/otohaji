@@ -185,6 +185,15 @@ header {
   padding:5%;
 }
 
+.back-next {
+  float:right;
+  position:relative;
+  top:400px;
+  padding-right:5%;
+}
+
+
+
 #signup-form, #login-form {
   width: 100%;
 }
