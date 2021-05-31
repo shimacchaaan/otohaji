@@ -326,6 +326,56 @@ footer {
     font-size:22px;
   }
 
+@media all and (max-height:750px) {
+  
+  .modal img {
+  height:150px;
+  background-size:cover;
+  padding:2%;
+}
+
+  .back-next {
+  height:;
+  font-size:40px;
+  float:right;
+  position:relative;
+  top:45px;
+  padding-right:5%;
+}  
+  
+  #system-btn-mac,#rhythm-btn-mac,#melody-btn-mac,#chord-btn-mac,#mix-btn-mac {
+  display: inline-block;
+  padding: 14px 20px 28px 14px;
+  background-color: #27253D;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  width:50%;
+  margin: 7px auto;
+  text-align:left;
+  line-height:15px;
+  font-size:12px;
+  height:15px;
+  cursor: pointer;
+}
+
+#original-btn-mac {
+  display: inline-block;
+  padding: 14px 20px 14px 14px;
+  background-color: #7DA87B;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  width:50%;
+  margin: 10px auto;
+  text-align:left;
+  line-height:15px;
+  font-size:12px;
+  cursor: pointer;
+}
+
+} 
+
 @media all and (max-width: 670px) {
   .header-right {
     display: none;
