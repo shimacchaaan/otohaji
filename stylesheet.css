@@ -183,6 +183,7 @@ header {
 
 .modal img {
   padding:5%;
+  margin-top:20px;
 }
 
 .back-next {
@@ -333,6 +334,7 @@ footer {
   height:150px;
   background-size:cover;
   padding:2%;
+  margin-top:70px;
 }
 
   .back-next {
