@@ -327,7 +327,7 @@ footer {
     font-size:22px;
   }
 
-@media all and (max-height:750px) {
+@media all and (max-height:900px) {
   
   .modal img {
   height:150px;
