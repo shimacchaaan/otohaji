@@ -194,9 +194,13 @@ header {
   font-size:40px;
 }
 
-.btn-back,btn-next:hover {
+.btn-back:hover {
   cursor:pointer;
 }
+
+.btn-next:hover {
+  cursor:pointer;
+}  
   
 #signup-form, #login-form {
   width: 100%;
