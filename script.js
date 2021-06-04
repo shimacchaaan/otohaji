@@ -32,14 +32,9 @@ $(function(){
   });
 
 // system-modal から menu
-  $('#system-mac').click(function() {
-    $('#menu-modal-mac').fadeOut();
-    $('#system-modal-mac').fadeIn();
-  });
-
-  $('#system-btn-mac').click(function() {
-    $('#menu-modal-mac').fadeOut();
-    $('#system-modal-mac').fadeIn();
+  $('#menu-mac').click(function() {
+    $('#system-modal-mac').fadeOut();
+    $('#menu-modal-mac').fadeIn();
   });
   
 });
