@@ -20,4 +20,16 @@ $(function(){
     $('#start-modal-ds').fadeOut();
   });
   
+// menu から system-modal
+  $('#system-mac').click(function() {
+    $('#menu-modal-mac').fadeOut();
+    $('#system-modal-mac').fadeIn();
+  });
+
+  $('#system-btn-mac').click(function() {
+    $('#menu-modal-mac').fadeOut();
+    $('#system-modal-mac').fadeIn();
+  });
+
+  
 });
