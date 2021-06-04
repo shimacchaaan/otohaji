@@ -31,5 +31,15 @@ $(function(){
     $('#system-modal-mac').fadeIn();
   });
 
+// system-modal から menu
+  $('#system-mac').click(function() {
+    $('#menu-modal-mac').fadeOut();
+    $('#system-modal-mac').fadeIn();
+  });
+
+  $('#system-btn-mac').click(function() {
+    $('#menu-modal-mac').fadeOut();
+    $('#system-modal-mac').fadeIn();
+  });
   
 });
