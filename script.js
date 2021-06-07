@@ -23,11 +23,6 @@ $(function(){
 //20210607modal img から　menu-modal にとぶ。 MAC  
   $('#menu-img-mac').click(function() {
     $('#system-modal-mac').fadeOut();
-    $('#rhythm-modal-mac').fadeOut();
-    $('#melody-modal-mac').fadeOut();
-    $('#chord-modal-mac').fadeOut();
-    $('#mix-modal-mac').fadeOut();
-    $('#original-modal-mac').fadeOut();
     $('#menu-modal-mac').fadeIn();
   });
 // menu から system-modal
