@@ -184,6 +184,7 @@ header {
 .modal img {
   padding:3%;
   margin-top:auto;
+  cursor:pointer;
 }
 
 .back-next {
