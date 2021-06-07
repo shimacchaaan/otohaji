@@ -20,6 +20,16 @@ $(function(){
     $('#start-modal-ds').fadeOut();
   });
   
+//20210607modal img から　menu-modal にとぶ。 MAC  
+  $('#menu-img-mac').click(function() {
+    $('#system-modal-mac').fadeOut();
+    $('#rhythm-modal-mac').fadeOut();
+    $('#melody-modal-mac').fadeOut();
+    $('#chord-modal-mac').fadeOut();
+    $('#mix-modal-mac').fadeOut();
+    $('#original-modal-mac').fadeOut();
+    $('#system-modal-mac').fadeIn();
+  });
 // menu から system-modal
   $('#system-mac').click(function() {
     $('#menu-modal-mac').fadeOut();
