@@ -28,7 +28,7 @@ $(function(){
     $('#chord-modal-mac').fadeOut();
     $('#mix-modal-mac').fadeOut();
     $('#original-modal-mac').fadeOut();
-    $('#system-modal-mac').fadeIn();
+    $('#menu-modal-mac').fadeIn();
   });
 // menu から system-modal
   $('#system-mac').click(function() {
