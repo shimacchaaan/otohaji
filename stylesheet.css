@@ -184,7 +184,10 @@ header {
 .modal img {
   padding:3%;
   margin-top:auto;
-  cursor:pointer;
+}
+
+.modal img:hover {
+  cursor:pointer;  
 }
 
 .back-next {
