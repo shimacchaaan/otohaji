@@ -21,7 +21,7 @@ $(function(){
   });
   
 //20210607modal img から　menu-modal にとぶ。 MAC  
-  $('#menu-img-mac').click(function() {
+  $('.menu-img-mac').click(function() {
     $('#system-modal-mac').fadeOut();
     $('#menu-modal-mac').fadeIn();
   });
