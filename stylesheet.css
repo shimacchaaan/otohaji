@@ -357,13 +357,13 @@ footer {
 }
 
   .back-next {
-  height:;
-  font-size:40px;
   float:right;
-  position:relative;
-  top:45px;
   padding-right:5%;
-}  
+  font-size:40px;
+  position:absolute;
+  right:20px;
+  bottom:30px;
+}
   
   #system-btn-mac,#rhythm-btn-mac,#melody-btn-mac,#chord-btn-mac,#mix-btn-mac {
   display: inline-block;
