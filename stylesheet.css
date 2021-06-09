@@ -182,20 +182,30 @@ header {
 }
 
 .modal img {
-  padding:3%;
+  padding-top:30px;
   margin-top:auto;
+  height:100px;
 }
 
 .modal img:hover {
   cursor:pointer;  
 }
 
+.select-btn {
+  height:80px;
+}
+
+.select-btn div {
+  height:100%;
+}
+
 .back-next {
   float:right;
-  position:relative;
-  top:auto;
   padding-right:5%;
   font-size:40px;
+  position:absolute;
+  right:20px;
+  bottom:30px;
 }
 
 .btn-back:hover {
