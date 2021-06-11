@@ -191,6 +191,10 @@ header {
   cursor:pointer;  
 }
 
+.system .menu-img-mac {
+  height:70px;  
+}
+
 .select-btn {
   height:80px;
 }
