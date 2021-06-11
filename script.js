@@ -20,8 +20,8 @@ $(function(){
     $('#start-modal-ds').fadeOut();
   });
   
-//20210607modal img から　menu-modal にとぶ。 MAC  
-  $('.modal img').click(function() {
+//20210607.menu-img から　menu-modal にとぶ。 MAC  
+  $('.menu-img').click(function() {
     $('#system-modal-mac').fadeOut();
     $('#menu-modal-mac').fadeIn();
   });
