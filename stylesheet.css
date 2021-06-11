@@ -388,6 +388,10 @@ footer {
   .modal h2 {
     font-size:22px;
   }
+ 
+  .map {
+    padding-top:20px;
+  }
   
 }
 
