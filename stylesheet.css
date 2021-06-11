@@ -390,7 +390,11 @@ footer {
   }
  
   .map {
-    padding-top:20px;
+    padding-top:80px;
+  }
+  
+  .system-top {
+    height:120px;
   }
   
 }
