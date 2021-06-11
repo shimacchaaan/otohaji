@@ -23,22 +23,26 @@ $(function(){
 //20210607.menu-img から　menu-modal にとぶ。 MAC  
   $('.menu-img-mac').click(function() {
     $('#system-modal-mac').fadeOut();
+    $('.map').fadeOut();
     $('#menu-modal-mac').fadeIn();
   });
 // menu から system-modal
   $('#system-mac').click(function() {
     $('#menu-modal-mac').fadeOut();
     $('#system-modal-mac').fadeIn();
+    $('.map').fadeIn();
   });
 
   $('#system-btn-mac').click(function() {
     $('#menu-modal-mac').fadeOut();
     $('#system-modal-mac').fadeIn();
+    $('.map').fadeIn();
   });
 
 // system-modal から menu
   $('#menu-mac').click(function() {
     $('#system-modal-mac').fadeOut();
+    $('.map').fadeOut();
     $('#menu-modal-mac').fadeIn();
   });
   
