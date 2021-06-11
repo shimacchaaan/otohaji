@@ -196,7 +196,7 @@ header {
 }
 
 .select-btn {
-  height:80px;
+  height:auto;
 }
 
 .select-btn div {
