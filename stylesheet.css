@@ -216,6 +216,11 @@ header {
  cursor:pointer;   
 }  
 
+.section-title h2 {
+  color:#BDBDBD;
+  padding-top:20px;
+}
+
 .lesson-system {
   background-color:#27253D;
   position: absolute center;
