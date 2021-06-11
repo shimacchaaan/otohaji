@@ -181,13 +181,13 @@ header {
   cursor: pointer;
 }
 
-.modal img {
+.menu-img {
   padding-top:30px;
   margin-top:auto;
   height:100px;
 }
 
-.modal img:hover {
+.menu-img:hover {
   cursor:pointer;  
 }
 
@@ -203,11 +203,14 @@ header {
   padding-top:30px;
   margin-top:auto;
   height:100px;
-  cursor:pointer;  
   position:absolute;
   top:120px;
   width:100%;
 }
+
+.map:hover {
+ cursor:pointer;   
+}  
 
 .lesson-system {
   background-color:#27253D;
