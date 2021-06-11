@@ -367,11 +367,20 @@ footer {
     top: 30px;
     right: 40px;
   }
-}
+  
+  /*MAP  */
 
-.modal h2 {
+  .map img {
+    width:45px;
+    height:auto; 
+  }
+
+  .modal h2 {
     font-size:22px;
   }
+  
+}
+
 
 @media all and (max-height:900px) {
   
