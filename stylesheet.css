@@ -200,15 +200,15 @@ header {
 }
 
 .map {
-  padding-top:30px;
-  margin-top:auto;
-  height:100px;
-  position:absolute;
-  top:120px;
-  width:100%;
+  position:absolute center;
 }
 
-.map:hover {
+.map img {
+  width:70px;
+  height:70px; 
+}
+
+.map img:hover {
  cursor:pointer;   
 }  
 
