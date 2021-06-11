@@ -205,11 +205,11 @@ header {
 
 .map {
   position:absolute center;
+  padding-top:10px;
 }
 
 .map img {
-  padding-top:10px;
-  width:70px; 
+  height:70px; 
 }
 
 .map img:hover {
