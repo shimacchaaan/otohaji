@@ -2,6 +2,7 @@
 $(function(){
   $('#lesson-show-mac').click(function(){
     $('#start-modal-mac').fadeIn();
+    $('.map').css('display','none');
   });
   
   $('#lesson-show-win').click(function(){
