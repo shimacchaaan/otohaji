@@ -201,6 +201,7 @@ header {
 
 .map {
   position:absolute center;
+  display:none;
 }
 
 .map img {
