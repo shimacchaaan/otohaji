@@ -200,6 +200,10 @@ header {
 }
 
 .map {
+  padding-top:30px;
+  margin-top:auto;
+  height:100px;
+  cursor:pointer;  
   position:absolute;
   top:120px;
   width:100%;
