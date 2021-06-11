@@ -181,13 +181,13 @@ header {
   cursor: pointer;
 }
 
-.menu-img {
+.menu-img-mac {
   padding-top:30px;
   margin-top:auto;
   height:100px;
 }
 
-.menu-img:hover {
+.menu-img-mac:hover {
   cursor:pointer;  
 }
 
@@ -372,7 +372,7 @@ footer {
 
 @media all and (max-height:900px) {
   
-  .modal img {
+  .menu-img-mac {
   height:150px;
   background-size:cover;
   padding:2%;
