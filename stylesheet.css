@@ -191,8 +191,16 @@ header {
   cursor:pointer;  
 }
 
-.system .menu-img-mac {
-  height:70px;  
+.system-wrapper {
+  position:rerative;
+}
+
+.system-wrapper .menu-img-mac {
+  height:60px;
+  position:absolute;
+  bottom:30px;
+  left:30px;    
+  z-index:10;
 }
 
 .select-btn {
