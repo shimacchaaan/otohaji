@@ -241,7 +241,8 @@ header {
   height:70px;
 }
 
-.lesson-system p {
+.system-commentary {
+  height:200px;
   text-align:left;
   color:#BDBDBD;
   overflow:scroll;
